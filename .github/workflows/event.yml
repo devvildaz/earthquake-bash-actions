@@ -1,0 +1,41 @@
+on:
+  workflow_dispath:
+  schedule:
+    - cron: "0 */12 * * *"
+permissions:
+  contents: write
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: configure git actions bot
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+      - name: generate json
+        run : |
+          wget https://github.com/ericchiang/pup/releases/download/v0.4.0/pup_v0.4.0_linux_amd64.zip
+          unzip pup_v0.4.0_linux_amd64.zip
+          rm pup_v0.4.0_linux_amd64.zip
+          
+
+          export PATH="$PWD:$PATH"
+          
+          touch today.json
+          ./run.sh > today.json
+
+          rm pup
+
+          if [[ ! z $(git status --short) ]]; then
+            git add public
+            git commit -m "Update $(date)"
+            git push origin main
+          fi
+      - name: deploy new json
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN  }}
+          publish_dir: ./public
+          user_name: "github-actions[bot]"
+          user_email: "github_actions[bot]@users.noreply.github.com
