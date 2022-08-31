@@ -1,5 +1,5 @@
 on:
-  workflow_dispath:
+  workflow_dispatch:
   schedule:
     - cron: "0 */12 * * *"
 permissions:
@@ -22,8 +22,7 @@ jobs:
 
           export PATH="$PWD:$PATH"
           
-          touch today.json
-          ./run.sh > today.json
+          ./run.sh > public/today.json
 
           rm pup
 
