@@ -17,6 +17,8 @@ jobs:
         run : |
           wget https://github.com/ericchiang/pup/releases/download/v0.4.0/pup_v0.4.0_linux_amd64.zip
 
+          ls -l
+
           unzip pup_v0.4.0_linux_amd64.zip
 
           rm pup_v0.4.0_linux_amd64.zip
