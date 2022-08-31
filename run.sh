@@ -26,7 +26,7 @@ ROWS=$(cat $INPUT | pup $ROW_TARGET)
 COUNT=$(echo $ROWS | grep -o '</tr>' | wc -l)
 
 echo "{"
-echo "registers: ["
+echo "\"registers\": ["
 
 for i in $(seq 1 $COUNT)
 do
@@ -67,10 +67,10 @@ do
 
 #   echo "$LAT_SIGN$LATITUDE, $LOG_SIGN$LONGITUDE ($PLACE) $MAGNITUDE"
 		echo "{"
-		echo "  lat: $LAT_SIGN$LATITUDE,"
-		echo "  log: $LOG_SIGN$LONGITUDE,"
-		echo "  place: '$PLACE',"
-		echo "  magnitude: $MAGNITUDE"
+		echo "  \"lat\": $LAT_SIGN$LATITUDE,"
+		echo "  \"log\": $LOG_SIGN$LONGITUDE,"
+		echo "  \"place\": \"$PLACE\","
+		echo "  \"magnitude\": $MAGNITUDE"
 		echo -n "}"
 		if [[ $i -ne $COUNT ]];then
 			echo ","
