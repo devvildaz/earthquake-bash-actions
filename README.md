@@ -1,0 +1,1 @@
+# earthquake-bash-actions
