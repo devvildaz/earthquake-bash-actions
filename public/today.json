@@ -1,304 +1,304 @@
 {
 "registers": [
 {
-  "lat": 9.37,
-  "log": -80.35,
-  "place": "PANAMA",
-  "magnitude": 4.0
-},
-{
-  "lat": -23.10,
-  "log": -66.56,
-  "place": "JUJUY, ARGENTINA",
-  "magnitude": 3.6
-},
-{
-  "lat": 35.91,
-  "log": 22.29,
-  "place": "CENTRAL MEDITERRANEAN SEA",
-  "magnitude": 3.8
-},
-{
-  "lat": 40.77,
-  "log": 42.78,
-  "place": "EASTERN TURKEY",
-  "magnitude": 3.0
-},
-{
-  "lat": 53.95,
-  "log": -35.19,
-  "place": "REYKJANES RIDGE",
-  "magnitude": 4.8
-},
-{
-  "lat": 19.23,
-  "log": -155.40,
-  "place": "ISLAND OF HAWAII, HAWAII",
-  "magnitude": 2.1
-},
-{
-  "lat": -12.43,
-  "log": -77.38,
-  "place": "NEAR COAST OF CENTRAL PERU",
-  "magnitude": 3.8
-},
-{
-  "lat": 27.26,
-  "log": -110.89,
-  "place": "GULF OF CALIFORNIA",
-  "magnitude": 5.3
-},
-{
-  "lat": -24.12,
-  "log": -67.68,
-  "place": "ANTOFAGASTA, CHILE",
-  "magnitude": 3.6
-},
-{
-  "lat": 9.32,
-  "log": 126.49,
-  "place": "MINDANAO, PHILIPPINES",
-  "magnitude": 4.9
-},
-{
-  "lat": 53.73,
-  "log": -35.38,
-  "place": "REYKJANES RIDGE",
-  "magnitude": 5.2
-},
-{
-  "lat": 19.24,
-  "log": -155.36,
-  "place": "ISLAND OF HAWAII, HAWAII",
-  "magnitude": 2.0
-},
-{
-  "lat": 17.95,
-  "log": -66.86,
-  "place": "PUERTO RICO REGION",
-  "magnitude": 2.3
-},
-{
-  "lat": 40.81,
-  "log": 42.80,
-  "place": "EASTERN TURKEY",
-  "magnitude": 2.6
-},
-{
-  "lat": 36.27,
-  "log": -97.50,
-  "place": "OKLAHOMA",
-  "magnitude": 2.4
+  "lat": -31.54,
+  "log": -71.72,
+  "place": "OFFSHORE COQUIMBO, CHILE",
+  "magnitude": 3.7
 },
 {
   "lat": 40.80,
   "log": 42.80,
   "place": "EASTERN TURKEY",
-  "magnitude": 2.8
+  "magnitude": 3.1
 },
 {
-  "lat": 42.76,
-  "log": 12.66,
-  "place": "CENTRAL ITALY",
-  "magnitude": 2.3
+  "lat": 19.11,
+  "log": -155.43,
+  "place": "ISLAND OF HAWAII, HAWAII",
+  "magnitude": 2.1
 },
 {
   "lat": 53.77,
-  "log": -35.86,
+  "log": -35.56,
   "place": "REYKJANES RIDGE",
   "magnitude": 4.6
 },
 {
-  "lat": 35.75,
-  "log": -118.02,
-  "place": "CENTRAL CALIFORNIA",
-  "magnitude": 2.1
+  "lat": -21.38,
+  "log": -68.71,
+  "place": "ANTOFAGASTA, CHILE",
+  "magnitude": 3.2
 },
 {
-  "lat": 17.94,
-  "log": -66.93,
-  "place": "PUERTO RICO",
+  "lat": 40.29,
+  "log": -124.86,
+  "place": "OFFSHORE NORTHERN CALIFORNIA",
+  "magnitude": 2.5
+},
+{
+  "lat": 19.25,
+  "log": -155.38,
+  "place": "ISLAND OF HAWAII, HAWAII",
   "magnitude": 2.3
 },
 {
-  "lat": 19.31,
-  "log": -155.42,
-  "place": "ISLAND OF HAWAII, HAWAII",
-  "magnitude": 2.8
+  "lat": -25.59,
+  "log": -70.66,
+  "place": "OFFSHORE ANTOFAGASTA, CHILE",
+  "magnitude": 4.4
 },
 {
-  "lat": 19.27,
-  "log": -155.41,
-  "place": "ISLAND OF HAWAII, HAWAII",
+  "lat": 38.47,
+  "log": 23.37,
+  "place": "GREECE",
   "magnitude": 2.6
 },
 {
-  "lat": 53.80,
-  "log": -35.27,
+  "lat": 2.80,
+  "log": 128.25,
+  "place": "HALMAHERA, INDONESIA",
+  "magnitude": 4.6
+},
+{
+  "lat": -21.84,
+  "log": -68.66,
+  "place": "ANTOFAGASTA, CHILE",
+  "magnitude": 2.7
+},
+{
+  "lat": 38.31,
+  "log": 23.42,
+  "place": "GREECE",
+  "magnitude": 2.9
+},
+{
+  "lat": 54.08,
+  "log": -32.86,
+  "place": "REYKJANES RIDGE",
+  "magnitude": 4.4
+},
+{
+  "lat": -24.15,
+  "log": -68.95,
+  "place": "ANTOFAGASTA, CHILE",
+  "magnitude": 2.9
+},
+{
+  "lat": 18.34,
+  "log": -103.44,
+  "place": "MICHOACAN, MEXICO",
+  "magnitude": 4.2
+},
+{
+  "lat": 19.16,
+  "log": -155.50,
+  "place": "ISLAND OF HAWAII, HAWAII",
+  "magnitude": 2.3
+},
+{
+  "lat": 32.33,
+  "log": 142.69,
+  "place": "IZU ISLANDS, JAPAN REGION",
+  "magnitude": 4.5
+},
+{
+  "lat": 19.25,
+  "log": -155.39,
+  "place": "ISLAND OF HAWAII, HAWAII",
+  "magnitude": 2.2
+},
+{
+  "lat": 19.16,
+  "log": -155.47,
+  "place": "ISLAND OF HAWAII, HAWAII",
+  "magnitude": 2.3
+},
+{
+  "lat": 9.33,
+  "log": 126.83,
+  "place": "MINDANAO, PHILIPPINES",
+  "magnitude": 3.2
+},
+{
+  "lat": 45.46,
+  "log": 0.94,
+  "place": "FRANCE",
+  "magnitude": 2.3
+},
+{
+  "lat": 53.88,
+  "log": -35.25,
+  "place": "REYKJANES RIDGE",
+  "magnitude": 5.1
+},
+{
+  "lat": 18.09,
+  "log": -103.28,
+  "place": "OFFSHORE MICHOACAN, MEXICO",
+  "magnitude": 4.0
+},
+{
+  "lat": 38.07,
+  "log": -122.00,
+  "place": "SAN FRANCISCO BAY AREA, CALIF.",
+  "magnitude": 2.1
+},
+{
+  "lat": 47.51,
+  "log": -2.28,
+  "place": "FRANCE",
+  "magnitude": 2.1
+},
+{
+  "lat": -3.09,
+  "log": -77.14,
+  "place": "PERU-ECUADOR BORDER REGION",
+  "magnitude": 4.4
+},
+{
+  "lat": 53.88,
+  "log": -35.29,
   "place": "REYKJANES RIDGE",
   "magnitude": 4.7
 },
 {
-  "lat": 40.73,
-  "log": 42.77,
-  "place": "EASTERN TURKEY",
+  "lat": 19.25,
+  "log": -155.38,
+  "place": "ISLAND OF HAWAII, HAWAII",
+  "magnitude": 2.3
+},
+{
+  "lat": 18.11,
+  "log": -103.23,
+  "place": "OFFSHORE MICHOACAN, MEXICO",
   "magnitude": 4.1
 },
 {
-  "lat": 36.88,
-  "log": 31.11,
-  "place": "WESTERN TURKEY",
-  "magnitude": 2.8
-},
-{
-  "lat": 19.29,
-  "log": -155.41,
+  "lat": 19.20,
+  "log": -155.38,
   "place": "ISLAND OF HAWAII, HAWAII",
-  "magnitude": 2.7
+  "magnitude": 2.0
 },
 {
-  "lat": 19.30,
-  "log": -155.44,
-  "place": "ISLAND OF HAWAII, HAWAII",
-  "magnitude": 4.5
+  "lat": -33.41,
+  "log": -72.31,
+  "place": "OFFSHORE VALPARAISO, CHILE",
+  "magnitude": 2.5
 },
 {
-  "lat": -9.25,
-  "log": 123.15,
-  "place": "TIMOR REGION, INDONESIA",
-  "magnitude": 2.8
+  "lat": 18.56,
+  "log": -73.30,
+  "place": "HAITI REGION",
+  "magnitude": 3.4
 },
 {
-  "lat": -44.27,
-  "log": 168.36,
-  "place": "SOUTH ISLAND OF NEW ZEALAND",
+  "lat": 9.36,
+  "log": 126.71,
+  "place": "MINDANAO, PHILIPPINES",
   "magnitude": 3.1
 },
 {
-  "lat": 53.84,
-  "log": -35.28,
+  "lat": 53.90,
+  "log": -35.42,
   "place": "REYKJANES RIDGE",
   "magnitude": 4.6
 },
 {
-  "lat": 11.37,
-  "log": -86.93,
-  "place": "NEAR COAST OF NICARAGUA",
-  "magnitude": 3.1
+  "lat": 19.16,
+  "log": -155.47,
+  "place": "ISLAND OF HAWAII, HAWAII",
+  "magnitude": 2.1
 },
 {
-  "lat": 8.22,
-  "log": -82.86,
-  "place": "PANAMA-COSTA RICA BORDER REGION",
+  "lat": 9.35,
+  "log": 126.81,
+  "place": "MINDANAO, PHILIPPINES",
   "magnitude": 3.3
 },
 {
-  "lat": 27.66,
-  "log": 56.62,
-  "place": "SOUTHERN IRAN",
-  "magnitude": 3.8
-},
-{
-  "lat": 31.27,
-  "log": -115.26,
-  "place": "BAJA CALIFORNIA, MEXICO",
+  "lat": 40.78,
+  "log": 42.65,
+  "place": "EASTERN TURKEY",
   "magnitude": 3.0
 },
 {
-  "lat": 19.42,
-  "log": -103.82,
-  "place": "JALISCO, MEXICO",
+  "lat": -38.58,
+  "log": 177.72,
+  "place": "NORTH ISLAND OF NEW ZEALAND",
   "magnitude": 3.4
 },
 {
-  "lat": 17.95,
-  "log": -103.17,
-  "place": "OFFSHORE MICHOACAN, MEXICO",
-  "magnitude": 3.5
+  "lat": -31.27,
+  "log": -68.67,
+  "place": "SAN JUAN, ARGENTINA",
+  "magnitude": 3.1
 },
 {
-  "lat": 31.90,
-  "log": -103.91,
-  "place": "WESTERN TEXAS",
-  "magnitude": 2.8
+  "lat": -24.11,
+  "log": -67.53,
+  "place": "SALTA, ARGENTINA",
+  "magnitude": 3.1
 },
 {
-  "lat": 37.50,
-  "log": 137.20,
-  "place": "NEAR WEST COAST OF HONSHU, JAPAN",
-  "magnitude": 3.8
+  "lat": 48.22,
+  "log": -3.09,
+  "place": "FRANCE",
+  "magnitude": 2.2
 },
 {
-  "lat": 42.27,
-  "log": 80.50,
-  "place": "KAZAKHSTAN-XINJIANG BORDER REG.",
-  "magnitude": 4.3
+  "lat": 45.56,
+  "log": 26.57,
+  "place": "ROMANIA",
+  "magnitude": 3.1
 },
 {
-  "lat": 18.14,
-  "log": -103.41,
-  "place": "OFFSHORE MICHOACAN, MEXICO",
-  "magnitude": 3.4
-},
-{
-  "lat": 53.89,
-  "log": -35.31,
+  "lat": 53.73,
+  "log": -35.44,
   "place": "REYKJANES RIDGE",
   "magnitude": 4.9
 },
 {
-  "lat": 44.78,
-  "log": -110.81,
-  "place": "YELLOWSTONE NAT. PARK, WYOMING",
-  "magnitude": 2.1
+  "lat": 17.88,
+  "log": -66.88,
+  "place": "PUERTO RICO REGION",
+  "magnitude": 2.7
 },
 {
-  "lat": 45.98,
-  "log": 7.51,
-  "place": "SWITZERLAND",
-  "magnitude": 1.9
-},
-{
-  "lat": -22.80,
-  "log": -68.83,
+  "lat": -22.27,
+  "log": -68.69,
   "place": "ANTOFAGASTA, CHILE",
-  "magnitude": 3.3
+  "magnitude": 2.7
 },
 {
-  "lat": 53.76,
-  "log": -35.40,
+  "lat": 38.63,
+  "log": 39.61,
+  "place": "EASTERN TURKEY",
+  "magnitude": 2.7
+},
+{
+  "lat": 53.59,
+  "log": -35.10,
   "place": "REYKJANES RIDGE",
-  "magnitude": 4.8
+  "magnitude": 4.4
 },
 {
-  "lat": 18.10,
+  "lat": 45.45,
+  "log": 3.30,
+  "place": "FRANCE",
+  "magnitude": 2.5
+},
+{
+  "lat": 18.11,
   "log": -103.28,
   "place": "OFFSHORE MICHOACAN, MEXICO",
-  "magnitude": 3.8
+  "magnitude": 4.0
 },
 {
-  "lat": 16.91,
-  "log": -100.35,
-  "place": "OFFSHORE GUERRERO, MEXICO",
-  "magnitude": 3.4
-},
-{
-  "lat": -46.51,
-  "log": 167.50,
-  "place": "OFF W. COAST OF S. ISLAND, N.Z.",
-  "magnitude": 3.0
-},
-{
-  "lat": -9.93,
-  "log": 114.90,
-  "place": "SOUTH OF BALI, INDONESIA",
-  "magnitude": 4.2
-},
-{
-  "lat": 35.47,
-  "log": -3.68,
-  "place": "STRAIT OF GIBRALTAR",
-  "magnitude": 2.0
+  "lat": 40.78,
+  "log": 42.79,
+  "place": "EASTERN TURKEY",
+  "magnitude": 2.6
 }
 ]
 }
