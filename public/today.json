@@ -1,304 +1,304 @@
 {
 "registers": [
 {
-  "lat": 40.58,
-  "log": -124.11,
-  "place": "NORTHERN CALIFORNIA",
+  "lat": 42.52,
+  "log": 23.55,
+  "place": "BULGARIA",
   "magnitude": 2.4
-},
-{
-  "lat": 40.59,
-  "log": -124.10,
-  "place": "NORTHERN CALIFORNIA",
-  "magnitude": 3.5
-},
-{
-  "lat": 40.54,
-  "log": -124.31,
-  "place": "NORTHERN CALIFORNIA",
-  "magnitude": 2.4
-},
-{
-  "lat": 17.64,
-  "log": -61.14,
-  "place": "ANTIGUA AND BARBUDA REGION",
-  "magnitude": 4.7
-},
-{
-  "lat": -6.56,
-  "log": 145.91,
-  "place": "NEW GUINEA, PAPUA NEW GUINEA",
-  "magnitude": 4.9
-},
-{
-  "lat": 40.55,
-  "log": -124.33,
-  "place": "NORTHERN CALIFORNIA",
-  "magnitude": 2.5
-},
-{
-  "lat": 40.63,
-  "log": -124.02,
-  "place": "NORTHERN CALIFORNIA",
-  "magnitude": 2.1
-},
-{
-  "lat": 40.53,
-  "log": -124.40,
-  "place": "OFFSHORE NORTHERN CALIFORNIA",
-  "magnitude": 2.9
-},
-{
-  "lat": 40.74,
-  "log": -123.85,
-  "place": "NORTHERN CALIFORNIA",
-  "magnitude": 3.0
-},
-{
-  "lat": 40.50,
-  "log": -124.29,
-  "place": "NORTHERN CALIFORNIA",
-  "magnitude": 2.9
-},
-{
-  "lat": 40.63,
-  "log": -124.32,
-  "place": "NORTHERN CALIFORNIA",
-  "magnitude": 2.5
-},
-{
-  "lat": 40.58,
-  "log": -124.12,
-  "place": "NORTHERN CALIFORNIA",
-  "magnitude": 2.3
 },
 {
   "lat": 40.52,
-  "log": -124.36,
-  "place": "NORTHERN CALIFORNIA",
-  "magnitude": 2.9
-},
-{
-  "lat": 40.67,
-  "log": -124.07,
-  "place": "NORTHERN CALIFORNIA",
-  "magnitude": 2.8
-},
-{
-  "lat": 40.53,
-  "log": -124.30,
-  "place": "NORTHERN CALIFORNIA",
-  "magnitude": 2.1
-},
-{
-  "lat": 40.53,
-  "log": -124.46,
-  "place": "OFFSHORE NORTHERN CALIFORNIA",
-  "magnitude": 2.8
-},
-{
-  "lat": 18.89,
-  "log": -64.68,
-  "place": "VIRGIN ISLANDS REGION",
-  "magnitude": 3.1
-},
-{
-  "lat": 40.63,
-  "log": -124.19,
+  "log": -124.37,
   "place": "NORTHERN CALIFORNIA",
   "magnitude": 2.2
 },
 {
-  "lat": 40.52,
-  "log": -124.38,
-  "place": "OFFSHORE NORTHERN CALIFORNIA",
-  "magnitude": 3.2
-},
-{
-  "lat": 40.51,
-  "log": -124.42,
-  "place": "OFFSHORE NORTHERN CALIFORNIA",
-  "magnitude": 2.9
-},
-{
-  "lat": 40.59,
-  "log": -124.26,
-  "place": "NORTHERN CALIFORNIA",
-  "magnitude": 2.9
-},
-{
-  "lat": 40.77,
-  "log": -123.97,
-  "place": "NORTHERN CALIFORNIA",
-  "magnitude": 2.6
-},
-{
-  "lat": 40.55,
-  "log": -124.30,
-  "place": "NORTHERN CALIFORNIA",
-  "magnitude": 2.6
-},
-{
-  "lat": 40.78,
-  "log": -124.09,
-  "place": "NORTHERN CALIFORNIA",
-  "magnitude": 2.3
-},
-{
-  "lat": 40.64,
-  "log": -124.35,
-  "place": "OFFSHORE NORTHERN CALIFORNIA",
-  "magnitude": 2.6
-},
-{
   "lat": 40.56,
-  "log": -124.31,
-  "place": "NORTHERN CALIFORNIA",
-  "magnitude": 2.8
-},
-{
-  "lat": 40.62,
-  "log": -124.49,
+  "log": -124.40,
   "place": "OFFSHORE NORTHERN CALIFORNIA",
-  "magnitude": 3.0
+  "magnitude": 2.7
 },
 {
-  "lat": 40.55,
-  "log": -124.11,
-  "place": "NORTHERN CALIFORNIA",
-  "magnitude": 2.5
-},
-{
-  "lat": 40.57,
-  "log": -124.00,
-  "place": "NORTHERN CALIFORNIA",
-  "magnitude": 2.5
-},
-{
-  "lat": 40.54,
-  "log": -124.42,
-  "place": "OFFSHORE NORTHERN CALIFORNIA",
-  "magnitude": 3.1
-},
-{
-  "lat": 40.55,
-  "log": -124.17,
-  "place": "NORTHERN CALIFORNIA",
-  "magnitude": 4.7
-},
-{
-  "lat": 40.56,
-  "log": -124.42,
-  "place": "OFFSHORE NORTHERN CALIFORNIA",
-  "magnitude": 6.4
-},
-{
-  "lat": 37.36,
-  "log": 21.81,
-  "place": "SOUTHERN GREECE",
-  "magnitude": 2.6
-},
-{
-  "lat": 18.53,
-  "log": -74.02,
-  "place": "HAITI REGION",
-  "magnitude": 3.5
-},
-{
-  "lat": -6.93,
-  "log": 129.17,
-  "place": "BANDA SEA",
+  "lat": -7.05,
+  "log": 129.42,
+  "place": "KEPULAUAN BABAR, INDONESIA",
   "magnitude": 4.2
 },
 {
-  "lat": 43.55,
-  "log": 39.75,
-  "place": "CAUCASUS REGION, RUSSIA",
-  "magnitude": 3.5
-},
-{
-  "lat": 36.88,
-  "log": 78.60,
-  "place": "SOUTHERN XINJIANG, CHINA",
-  "magnitude": 4.3
-},
-{
-  "lat": -2.46,
-  "log": 120.80,
-  "place": "SULAWESI, INDONESIA",
+  "lat": 33.78,
+  "log": -116.17,
+  "place": "SOUTHERN CALIFORNIA",
   "magnitude": 2.6
 },
 {
-  "lat": 19.16,
-  "log": -102.73,
-  "place": "MICHOACAN, MEXICO",
-  "magnitude": 4.4
-},
-{
-  "lat": 19.29,
-  "log": -70.03,
-  "place": "DOMINICAN REPUBLIC",
-  "magnitude": 3.1
-},
-{
-  "lat": -16.75,
-  "log": -177.42,
-  "place": "FIJI REGION",
-  "magnitude": 4.9
-},
-{
-  "lat": 3.82,
-  "log": 127.03,
-  "place": "KEPULAUAN TALAUD, INDONESIA",
-  "magnitude": 3.6
-},
-{
-  "lat": 18.66,
-  "log": -66.71,
-  "place": "PUERTO RICO REGION",
-  "magnitude": 2.8
-},
-{
-  "lat": 38.17,
-  "log": 15.09,
-  "place": "SICILY, ITALY",
-  "magnitude": 2.4
-},
-{
-  "lat": 19.20,
-  "log": -155.40,
-  "place": "ISLAND OF HAWAII, HAWAII",
+  "lat": 40.54,
+  "log": -124.31,
+  "place": "NORTHERN CALIFORNIA",
   "magnitude": 2.2
 },
 {
-  "lat": -40.21,
-  "log": 173.60,
-  "place": "COOK STRAIT, NEW ZEALAND",
+  "lat": 36.64,
+  "log": -10.50,
+  "place": "AZORES-CAPE ST. VINCENT RIDGE",
+  "magnitude": 2.0
+},
+{
+  "lat": 40.56,
+  "log": -124.06,
+  "place": "NORTHERN CALIFORNIA",
+  "magnitude": 3.0
+},
+{
+  "lat": 25.80,
+  "log": 90.76,
+  "place": "MEGHALAYA, INDIA REGION",
   "magnitude": 3.3
 },
 {
-  "lat": 36.08,
-  "log": 22.92,
-  "place": "SOUTHERN GREECE",
-  "magnitude": 2.5
+  "lat": 36.24,
+  "log": -115.31,
+  "place": "LAS VEGAS URBAN AREA, NEVADA",
+  "magnitude": 2.0
 },
 {
-  "lat": 19.02,
-  "log": -65.07,
-  "place": "VIRGIN ISLANDS REGION",
-  "magnitude": 3.5
-},
-{
-  "lat": 28.36,
-  "log": 142.83,
-  "place": "BONIN ISLANDS, JAPAN REGION",
-  "magnitude": 4.9
-},
-{
-  "lat": 12.93,
-  "log": -87.77,
+  "lat": 11.55,
+  "log": -87.40,
   "place": "NEAR COAST OF NICARAGUA",
+  "magnitude": 2.6
+},
+{
+  "lat": -3.07,
+  "log": 101.52,
+  "place": "SOUTHERN SUMATRA, INDONESIA",
+  "magnitude": 3.1
+},
+{
+  "lat": -29.96,
+  "log": -71.95,
+  "place": "OFFSHORE COQUIMBO, CHILE",
+  "magnitude": 3.1
+},
+{
+  "lat": -41.23,
+  "log": 172.58,
+  "place": "SOUTH ISLAND OF NEW ZEALAND",
+  "magnitude": 3.0
+},
+{
+  "lat": 19.28,
+  "log": -155.46,
+  "place": "ISLAND OF HAWAII, HAWAII",
   "magnitude": 2.5
+},
+{
+  "lat": -26.71,
+  "log": -176.63,
+  "place": "SOUTH OF FIJI ISLANDS",
+  "magnitude": 5.4
+},
+{
+  "lat": 31.66,
+  "log": -104.32,
+  "place": "WESTERN TEXAS",
+  "magnitude": 2.6
+},
+{
+  "lat": -6.21,
+  "log": 105.10,
+  "place": "SUNDA STRAIT, INDONESIA",
+  "magnitude": 2.7
+},
+{
+  "lat": 40.54,
+  "log": -124.34,
+  "place": "NORTHERN CALIFORNIA",
+  "magnitude": 2.5
+},
+{
+  "lat": 37.78,
+  "log": 21.14,
+  "place": "SOUTHERN GREECE",
+  "magnitude": 3.0
+},
+{
+  "lat": 7.57,
+  "log": 124.95,
+  "place": "MINDANAO, PHILIPPINES",
+  "magnitude": 3.0
+},
+{
+  "lat": -5.15,
+  "log": 129.81,
+  "place": "BANDA SEA",
+  "magnitude": 3.7
+},
+{
+  "lat": 40.57,
+  "log": -124.36,
+  "place": "OFFSHORE NORTHERN CALIFORNIA",
+  "magnitude": 4.3
+},
+{
+  "lat": 40.58,
+  "log": -124.10,
+  "place": "NORTHERN CALIFORNIA",
+  "magnitude": 2.6
+},
+{
+  "lat": 18.02,
+  "log": -102.21,
+  "place": "MICHOACAN, MEXICO",
+  "magnitude": 4.1
+},
+{
+  "lat": 0.18,
+  "log": 96.67,
+  "place": "NIAS REGION, INDONESIA",
+  "magnitude": 4.2
+},
+{
+  "lat": 37.09,
+  "log": 28.42,
+  "place": "WESTERN TURKEY",
+  "magnitude": 2.7
+},
+{
+  "lat": 39.72,
+  "log": 22.20,
+  "place": "GREECE",
+  "magnitude": 2.5
+},
+{
+  "lat": 8.59,
+  "log": -83.31,
+  "place": "COSTA RICA",
+  "magnitude": 3.1
+},
+{
+  "lat": 24.50,
+  "log": 96.13,
+  "place": "MYANMAR",
+  "magnitude": 4.3
+},
+{
+  "lat": 35.55,
+  "log": -3.74,
+  "place": "STRAIT OF GIBRALTAR",
+  "magnitude": 1.7
+},
+{
+  "lat": 28.03,
+  "log": -16.22,
+  "place": "CANARY ISLANDS, SPAIN REGION",
+  "magnitude": 1.6
+},
+{
+  "lat": 2.74,
+  "log": 126.08,
+  "place": "MOLUCCA SEA",
+  "magnitude": 3.9
+},
+{
+  "lat": 17.94,
+  "log": -66.84,
+  "place": "PUERTO RICO REGION",
+  "magnitude": 2.0
+},
+{
+  "lat": -1.29,
+  "log": 136.66,
+  "place": "BIAK REGION, INDONESIA",
+  "magnitude": 3.0
+},
+{
+  "lat": 19.17,
+  "log": -155.50,
+  "place": "ISLAND OF HAWAII, HAWAII",
+  "magnitude": 2.1
+},
+{
+  "lat": 35.42,
+  "log": -3.62,
+  "place": "STRAIT OF GIBRALTAR",
+  "magnitude": 2.2
+},
+{
+  "lat": 40.52,
+  "log": -124.50,
+  "place": "OFFSHORE NORTHERN CALIFORNIA",
+  "magnitude": 2.3
+},
+{
+  "lat": 39.42,
+  "log": 20.71,
+  "place": "GREECE",
+  "magnitude": 2.1
+},
+{
+  "lat": 37.05,
+  "log": -5.38,
+  "place": "SPAIN",
+  "magnitude": 1.8
+},
+{
+  "lat": -5.47,
+  "log": 103.63,
+  "place": "SOUTHERN SUMATRA, INDONESIA",
+  "magnitude": 3.2
+},
+{
+  "lat": 40.81,
+  "log": -124.35,
+  "place": "OFFSHORE NORTHERN CALIFORNIA",
+  "magnitude": 2.5
+},
+{
+  "lat": 7.56,
+  "log": -78.00,
+  "place": "PANAMA",
+  "magnitude": 4.0
+},
+{
+  "lat": 11.74,
+  "log": -87.39,
+  "place": "NEAR COAST OF NICARAGUA",
+  "magnitude": 2.9
+},
+{
+  "lat": 34.50,
+  "log": 139.30,
+  "place": "NEAR S. COAST OF HONSHU, JAPAN",
+  "magnitude": 4.0
+},
+{
+  "lat": -8.47,
+  "log": 116.02,
+  "place": "LOMBOK REGION, INDONESIA",
+  "magnitude": 2.5
+},
+{
+  "lat": 63.67,
+  "log": -149.57,
+  "place": "CENTRAL ALASKA",
+  "magnitude": 2.8
+},
+{
+  "lat": -2.49,
+  "log": 134.39,
+  "place": "NEAR N COAST OF PAPUA, INDONESIA",
+  "magnitude": 3.1
+},
+{
+  "lat": 34.99,
+  "log": -97.91,
+  "place": "OKLAHOMA",
+  "magnitude": 2.3
+},
+{
+  "lat": 38.83,
+  "log": -122.80,
+  "place": "NORTHERN CALIFORNIA",
+  "magnitude": 2.0
 }
 ]
 }
