@@ -1,304 +1,304 @@
 {
 "registers": [
 {
-  "lat": -0.45,
-  "log": 123.26,
-  "place": "SULAWESI, INDONESIA",
-  "magnitude": 3.6
-},
-{
-  "lat": 44.24,
-  "log": 6.22,
-  "place": "FRANCE",
-  "magnitude": 2.3
-},
-{
-  "lat": -9.26,
-  "log": 120.01,
-  "place": "SUMBA REGION, INDONESIA",
+  "lat": 2.20,
+  "log": 127.62,
+  "place": "MOLUCCA SEA",
   "magnitude": 3.0
 },
 {
-  "lat": 14.29,
-  "log": 123.27,
-  "place": "LUZON, PHILIPPINES",
-  "magnitude": 4.6
+  "lat": 34.80,
+  "log": 24.93,
+  "place": "CRETE, GREECE",
+  "magnitude": 3.5
 },
 {
-  "lat": 12.27,
-  "log": -87.29,
-  "place": "NEAR COAST OF NICARAGUA",
-  "magnitude": 2.8
+  "lat": 2.77,
+  "log": 127.23,
+  "place": "MOLUCCA SEA",
+  "magnitude": 3.3
 },
 {
-  "lat": 35.37,
-  "log": -4.24,
-  "place": "STRAIT OF GIBRALTAR",
-  "magnitude": 2.5
-},
-{
-  "lat": -0.01,
-  "log": 123.13,
-  "place": "SULAWESI, INDONESIA",
-  "magnitude": 6.0
-},
-{
-  "lat": 39.39,
-  "log": 26.27,
-  "place": "NEAR THE COAST OF WESTERN TURKEY",
+  "lat": 38.52,
+  "log": 44.80,
+  "place": "TURKEY-IRAN BORDER REGION",
   "magnitude": 2.6
 },
 {
-  "lat": 12.95,
-  "log": -88.97,
-  "place": "OFFSHORE EL SALVADOR",
-  "magnitude": 4.1
-},
-{
-  "lat": 36.10,
-  "log": -97.83,
-  "place": "OKLAHOMA",
-  "magnitude": 2.7
-},
-{
-  "lat": 14.09,
-  "log": -89.86,
-  "place": "GUATEMALA",
-  "magnitude": 3.5
-},
-{
-  "lat": 44.00,
-  "log": 13.32,
-  "place": "ADRIATIC SEA",
-  "magnitude": 2.0
-},
-{
-  "lat": 11.43,
-  "log": -87.06,
-  "place": "NEAR COAST OF NICARAGUA",
-  "magnitude": 2.5
-},
-{
-  "lat": -3.93,
-  "log": 133.57,
-  "place": "PAPUA, INDONESIA",
+  "lat": 2.90,
+  "log": 127.10,
+  "place": "MOLUCCA SEA",
   "magnitude": 3.9
 },
 {
-  "lat": 35.04,
-  "log": -97.42,
-  "place": "OKLAHOMA",
+  "lat": 2.20,
+  "log": 127.03,
+  "place": "MOLUCCA SEA",
+  "magnitude": 3.3
+},
+{
+  "lat": 40.85,
+  "log": 84.52,
+  "place": "SOUTHERN XINJIANG, CHINA",
+  "magnitude": 4.1
+},
+{
+  "lat": 36.08,
+  "log": -120.18,
+  "place": "CENTRAL CALIFORNIA",
   "magnitude": 2.2
 },
 {
-  "lat": 38.35,
-  "log": 27.24,
-  "place": "WESTERN TURKEY",
-  "magnitude": 3.2
-},
-{
-  "lat": 44.20,
-  "log": 6.25,
-  "place": "FRANCE",
-  "magnitude": 3.2
-},
-{
-  "lat": 1.56,
-  "log": 99.20,
-  "place": "NORTHERN SUMATRA, INDONESIA",
-  "magnitude": 3.5
-},
-{
-  "lat": 1.56,
-  "log": 99.25,
-  "place": "NORTHERN SUMATRA, INDONESIA",
-  "magnitude": 3.4
-},
-{
-  "lat": 28.08,
-  "log": -16.04,
-  "place": "CANARY ISLANDS, SPAIN REGION",
-  "magnitude": 2.2
-},
-{
-  "lat": 35.04,
-  "log": 24.25,
-  "place": "CRETE, GREECE",
-  "magnitude": 3.1
-},
-{
-  "lat": 41.46,
-  "log": 19.99,
-  "place": "ALBANIA",
-  "magnitude": 2.1
-},
-{
-  "lat": -3.70,
-  "log": 133.53,
-  "place": "PAPUA, INDONESIA",
-  "magnitude": 3.6
-},
-{
-  "lat": 17.97,
-  "log": -66.84,
-  "place": "PUERTO RICO",
-  "magnitude": 2.1
-},
-{
-  "lat": 41.73,
-  "log": -8.37,
+  "lat": 41.00,
+  "log": -7.07,
   "place": "PORTUGAL",
   "magnitude": 2.1
 },
 {
-  "lat": 0.34,
-  "log": 122.32,
-  "place": "MINAHASA, SULAWESI, INDONESIA",
-  "magnitude": 4.3
-},
-{
-  "lat": -2.69,
-  "log": 101.21,
-  "place": "SOUTHERN SUMATRA, INDONESIA",
-  "magnitude": 2.8
-},
-{
-  "lat": 6.37,
-  "log": 126.10,
-  "place": "MINDANAO, PHILIPPINES",
-  "magnitude": 4.5
-},
-{
-  "lat": 43.90,
-  "log": 13.42,
-  "place": "CENTRAL ITALY",
-  "magnitude": 2.5
-},
-{
-  "lat": 60.23,
-  "log": -153.17,
-  "place": "SOUTHERN ALASKA",
-  "magnitude": 2.8
-},
-{
-  "lat": 44.24,
-  "log": 6.22,
-  "place": "FRANCE",
+  "lat": 38.35,
+  "log": 27.26,
+  "place": "WESTERN TURKEY",
   "magnitude": 2.6
 },
 {
-  "lat": -8.98,
-  "log": 148.08,
-  "place": "EASTERN NEW GUINEA REG., P.N.G.",
-  "magnitude": 5.1
-},
-{
-  "lat": 44.26,
-  "log": 6.20,
-  "place": "FRANCE",
-  "magnitude": 2.2
-},
-{
-  "lat": 0.37,
-  "log": 126.00,
-  "place": "MOLUCCA SEA",
-  "magnitude": 3.1
-},
-{
-  "lat": 33.13,
-  "log": -116.70,
-  "place": "SOUTHERN CALIFORNIA",
-  "magnitude": 2.2
-},
-{
-  "lat": -37.55,
-  "log": 178.94,
-  "place": "OFF E. COAST OF N. ISLAND, N.Z.",
-  "magnitude": 3.6
-},
-{
-  "lat": 44.25,
-  "log": 6.20,
-  "place": "FRANCE",
-  "magnitude": 2.2
-},
-{
-  "lat": -3.08,
-  "log": 128.77,
-  "place": "SERAM, INDONESIA",
-  "magnitude": 2.9
-},
-{
-  "lat": 36.85,
-  "log": -97.79,
-  "place": "OKLAHOMA",
-  "magnitude": 2.1
-},
-{
-  "lat": 43.06,
-  "log": -0.39,
-  "place": "PYRENEES",
-  "magnitude": 2.3
-},
-{
-  "lat": -36.46,
-  "log": 177.92,
-  "place": "OFF E. COAST OF N. ISLAND, N.Z.",
-  "magnitude": 3.6
-},
-{
-  "lat": -2.40,
-  "log": 140.74,
-  "place": "NEAR N COAST OF PAPUA, INDONESIA",
-  "magnitude": 3.6
-},
-{
-  "lat": -17.95,
-  "log": -171.14,
-  "place": "TONGA REGION",
-  "magnitude": 5.1
-},
-{
-  "lat": 44.20,
-  "log": 6.29,
-  "place": "FRANCE",
-  "magnitude": 3.3
-},
-{
-  "lat": -7.17,
-  "log": 107.58,
-  "place": "JAVA, INDONESIA",
-  "magnitude": 2.5
-},
-{
-  "lat": 40.60,
-  "log": -124.06,
-  "place": "NORTHERN CALIFORNIA",
+  "lat": 37.46,
+  "log": -2.45,
+  "place": "SPAIN",
   "magnitude": 2.0
 },
 {
-  "lat": 61.67,
-  "log": -149.85,
-  "place": "SOUTHERN ALASKA",
-  "magnitude": 2.7
+  "lat": -13.24,
+  "log": 66.91,
+  "place": "MID-INDIAN RIDGE",
+  "magnitude": 5.0
 },
 {
-  "lat": -3.04,
-  "log": 128.79,
-  "place": "SERAM, INDONESIA",
+  "lat": 36.19,
+  "log": 22.89,
+  "place": "SOUTHERN GREECE",
   "magnitude": 2.5
 },
 {
-  "lat": 15.96,
-  "log": 119.16,
-  "place": "LUZON, PHILIPPINES",
+  "lat": 38.63,
+  "log": 44.82,
+  "place": "TURKEY-IRAN BORDER REGION",
+  "magnitude": 3.1
+},
+{
+  "lat": 2.91,
+  "log": 127.09,
+  "place": "MOLUCCA SEA",
+  "magnitude": 3.8
+},
+{
+  "lat": 38.46,
+  "log": 44.91,
+  "place": "TURKEY-IRAN BORDER REGION",
+  "magnitude": 4.4
+},
+{
+  "lat": 35.75,
+  "log": -97.97,
+  "place": "OKLAHOMA",
+  "magnitude": 2.2
+},
+{
+  "lat": 2.86,
+  "log": 127.13,
+  "place": "MOLUCCA SEA",
+  "magnitude": 4.0
+},
+{
+  "lat": 40.63,
+  "log": 44.95,
+  "place": "ARMENIA",
+  "magnitude": 2.3
+},
+{
+  "lat": 38.45,
+  "log": 44.98,
+  "place": "TURKEY-IRAN BORDER REGION",
+  "magnitude": 2.8
+},
+{
+  "lat": 38.66,
+  "log": 44.78,
+  "place": "TURKEY-IRAN BORDER REGION",
+  "magnitude": 2.9
+},
+{
+  "lat": 2.83,
+  "log": 128.52,
+  "place": "HALMAHERA, INDONESIA",
   "magnitude": 3.2
 },
 {
-  "lat": 19.19,
-  "log": -155.48,
+  "lat": 38.46,
+  "log": 45.02,
+  "place": "NORTHWESTERN IRAN",
+  "magnitude": 5.8
+},
+{
+  "lat": 2.84,
+  "log": 127.19,
+  "place": "MOLUCCA SEA",
+  "magnitude": 3.8
+},
+{
+  "lat": 24.90,
+  "log": 125.00,
+  "place": "SOUTHWESTERN RYUKYU ISL., JAPAN",
+  "magnitude": 3.6
+},
+{
+  "lat": 38.57,
+  "log": 44.95,
+  "place": "TURKEY-IRAN BORDER REGION",
+  "magnitude": 3.7
+},
+{
+  "lat": 2.74,
+  "log": 126.99,
+  "place": "MOLUCCA SEA",
+  "magnitude": 4.6
+},
+{
+  "lat": 2.97,
+  "log": 127.16,
+  "place": "MOLUCCA SEA",
+  "magnitude": 3.9
+},
+{
+  "lat": 19.11,
+  "log": -155.44,
   "place": "ISLAND OF HAWAII, HAWAII",
   "magnitude": 2.6
+},
+{
+  "lat": 2.25,
+  "log": 127.80,
+  "place": "MOLUCCA SEA",
+  "magnitude": 3.2
+},
+{
+  "lat": 2.79,
+  "log": 127.12,
+  "place": "MOLUCCA SEA",
+  "magnitude": 3.3
+},
+{
+  "lat": 35.24,
+  "log": 14.28,
+  "place": "MALTA REGION",
+  "magnitude": 3.6
+},
+{
+  "lat": 17.99,
+  "log": -66.84,
+  "place": "PUERTO RICO",
+  "magnitude": 2.2
+},
+{
+  "lat": 1.85,
+  "log": 128.19,
+  "place": "HALMAHERA, INDONESIA",
+  "magnitude": 2.6
+},
+{
+  "lat": 2.87,
+  "log": 127.26,
+  "place": "MOLUCCA SEA",
+  "magnitude": 3.6
+},
+{
+  "lat": 38.42,
+  "log": 14.50,
+  "place": "SICILY, ITALY",
+  "magnitude": 2.6
+},
+{
+  "lat": 3.02,
+  "log": 127.24,
+  "place": "KEPULAUAN TALAUD, INDONESIA",
+  "magnitude": 3.5
+},
+{
+  "lat": 2.52,
+  "log": 127.30,
+  "place": "MOLUCCA SEA",
+  "magnitude": 3.2
+},
+{
+  "lat": 43.01,
+  "log": 5.87,
+  "place": "NEAR SOUTH COAST OF FRANCE",
+  "magnitude": 2.2
+},
+{
+  "lat": 3.01,
+  "log": 127.23,
+  "place": "KEPULAUAN TALAUD, INDONESIA",
+  "magnitude": 4.0
+},
+{
+  "lat": 35.55,
+  "log": -3.67,
+  "place": "STRAIT OF GIBRALTAR",
+  "magnitude": 2.8
+},
+{
+  "lat": 39.46,
+  "log": 26.30,
+  "place": "NEAR THE COAST OF WESTERN TURKEY",
+  "magnitude": 2.5
+},
+{
+  "lat": 2.67,
+  "log": 127.14,
+  "place": "MOLUCCA SEA",
+  "magnitude": 5.5
+},
+{
+  "lat": 39.47,
+  "log": 26.29,
+  "place": "NEAR THE COAST OF WESTERN TURKEY",
+  "magnitude": 3.4
+},
+{
+  "lat": 2.87,
+  "log": 127.19,
+  "place": "MOLUCCA SEA",
+  "magnitude": 3.8
+},
+{
+  "lat": 2.93,
+  "log": 127.21,
+  "place": "MOLUCCA SEA",
+  "magnitude": 3.8
+},
+{
+  "lat": 35.33,
+  "log": -118.56,
+  "place": "CENTRAL CALIFORNIA",
+  "magnitude": 2.6
+},
+{
+  "lat": 35.81,
+  "log": -120.36,
+  "place": "CENTRAL CALIFORNIA",
+  "magnitude": 2.0
+},
+{
+  "lat": 2.82,
+  "log": 127.19,
+  "place": "MOLUCCA SEA",
+  "magnitude": 4.6
+},
+{
+  "lat": 2.69,
+  "log": 127.06,
+  "place": "MOLUCCA SEA",
+  "magnitude": 4.0
 }
 ]
 }
