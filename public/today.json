@@ -1,304 +1,304 @@
 {
 "registers": [
 {
-  "lat": 37.84,
-  "log": 36.63,
+  "lat": 46.23,
+  "log": 12.21,
+  "place": "NORTHERN ITALY",
+  "magnitude": 2.0
+},
+{
+  "lat": 37.91,
+  "log": 36.40,
   "place": "CENTRAL TURKEY",
-  "magnitude": 2.3
+  "magnitude": 2.0
 },
 {
-  "lat": 37.02,
-  "log": 36.87,
+  "lat": -32.41,
+  "log": -71.62,
+  "place": "OFFSHORE VALPARAISO, CHILE",
+  "magnitude": 3.8
+},
+{
+  "lat": 38.74,
+  "log": 35.26,
   "place": "CENTRAL TURKEY",
-  "magnitude": 2.3
-},
-{
-  "lat": 38.36,
-  "log": 37.42,
-  "place": "CENTRAL TURKEY",
-  "magnitude": 2.5
-},
-{
-  "lat": 38.17,
-  "log": 36.89,
-  "place": "CENTRAL TURKEY",
-  "magnitude": 2.2
-},
-{
-  "lat": 18.34,
-  "log": -61.92,
-  "place": "ANTIGUA AND BARBUDA REGION",
-  "magnitude": 3.9
-},
-{
-  "lat": 37.97,
-  "log": 36.63,
-  "place": "CENTRAL TURKEY",
-  "magnitude": 2.3
-},
-{
-  "lat": 37.57,
-  "log": 37.29,
-  "place": "CENTRAL TURKEY",
-  "magnitude": 2.8
-},
-{
-  "lat": -38.28,
-  "log": 175.75,
-  "place": "NORTH ISLAND OF NEW ZEALAND",
-  "magnitude": 3.2
-},
-{
-  "lat": 18.01,
-  "log": -66.83,
-  "place": "PUERTO RICO",
-  "magnitude": 2.5
-},
-{
-  "lat": 38.40,
-  "log": 37.41,
-  "place": "CENTRAL TURKEY",
-  "magnitude": 2.8
+  "magnitude": 2.0
 },
 {
   "lat": 38.72,
-  "log": 35.27,
-  "place": "CENTRAL TURKEY",
-  "magnitude": 3.1
-},
-{
-  "lat": 26.09,
-  "log": 68.37,
-  "place": "PAKISTAN",
-  "magnitude": 4.3
-},
-{
-  "lat": -34.91,
-  "log": -71.06,
-  "place": "MAULE, CHILE",
-  "magnitude": 2.9
-},
-{
-  "lat": 19.17,
-  "log": -68.28,
-  "place": "DOMINICAN REPUBLIC REGION",
-  "magnitude": 3.8
-},
-{
-  "lat": 38.19,
-  "log": 38.61,
-  "place": "EASTERN TURKEY",
-  "magnitude": 2.3
-},
-{
-  "lat": 38.29,
-  "log": 36.39,
-  "place": "CENTRAL TURKEY",
-  "magnitude": 2.5
-},
-{
-  "lat": 38.00,
-  "log": 26.11,
-  "place": "NEAR THE COAST OF WESTERN TURKEY",
-  "magnitude": 3.1
-},
-{
-  "lat": 37.90,
-  "log": 36.23,
-  "place": "CENTRAL TURKEY",
-  "magnitude": 2.0
-},
-{
-  "lat": 38.65,
-  "log": -0.58,
-  "place": "SPAIN",
-  "magnitude": 1.8
-},
-{
-  "lat": 36.23,
-  "log": 36.00,
-  "place": "TURKEY-SYRIA BORDER REGION",
-  "magnitude": 2.0
-},
-{
-  "lat": 37.85,
-  "log": 36.28,
-  "place": "CENTRAL TURKEY",
-  "magnitude": 3.5
-},
-{
-  "lat": 38.14,
-  "log": 36.60,
-  "place": "CENTRAL TURKEY",
-  "magnitude": 2.2
-},
-{
-  "lat": 38.69,
-  "log": 35.33,
-  "place": "CENTRAL TURKEY",
-  "magnitude": 2.1
-},
-{
-  "lat": 38.81,
-  "log": -122.83,
-  "place": "NORTHERN CALIFORNIA",
-  "magnitude": 2.6
-},
-{
-  "lat": 37.87,
-  "log": 36.36,
-  "place": "CENTRAL TURKEY",
-  "magnitude": 2.4
-},
-{
-  "lat": 38.04,
-  "log": 36.69,
-  "place": "CENTRAL TURKEY",
-  "magnitude": 3.3
-},
-{
-  "lat": 7.62,
-  "log": 91.77,
-  "place": "NICOBAR ISLANDS, INDIA REGION",
-  "magnitude": 5.1
-},
-{
-  "lat": 36.76,
-  "log": -2.98,
-  "place": "STRAIT OF GIBRALTAR",
-  "magnitude": 1.5
-},
-{
-  "lat": 35.90,
-  "log": 35.86,
-  "place": "NEAR THE COAST OF SYRIA",
-  "magnitude": 2.6
-},
-{
-  "lat": 38.60,
-  "log": 24.07,
-  "place": "AEGEAN SEA",
-  "magnitude": 2.9
-},
-{
-  "lat": 37.87,
-  "log": 36.29,
-  "place": "CENTRAL TURKEY",
-  "magnitude": 3.6
-},
-{
-  "lat": -24.16,
-  "log": -67.92,
-  "place": "ANTOFAGASTA, CHILE",
-  "magnitude": 3.4
-},
-{
-  "lat": 37.44,
-  "log": 43.82,
-  "place": "TURKEY-IRAQ BORDER REGION",
-  "magnitude": 2.4
-},
-{
-  "lat": 43.81,
-  "log": 147.79,
-  "place": "KURIL ISLANDS",
-  "magnitude": 4.6
-},
-{
-  "lat": -21.73,
-  "log": -68.64,
-  "place": "ANTOFAGASTA, CHILE",
-  "magnitude": 2.5
-},
-{
-  "lat": 36.48,
-  "log": 34.60,
-  "place": "CENTRAL TURKEY",
-  "magnitude": 3.2
-},
-{
-  "lat": 18.87,
-  "log": -64.35,
-  "place": "VIRGIN ISLANDS REGION",
-  "magnitude": 3.8
-},
-{
-  "lat": 38.06,
-  "log": 37.55,
-  "place": "CENTRAL TURKEY",
-  "magnitude": 2.1
-},
-{
-  "lat": 12.86,
-  "log": -87.76,
-  "place": "NEAR COAST OF NICARAGUA",
-  "magnitude": 4.3
-},
-{
-  "lat": 38.68,
-  "log": 35.29,
-  "place": "CENTRAL TURKEY",
-  "magnitude": 2.9
-},
-{
-  "lat": 38.68,
-  "log": 35.35,
+  "log": 35.30,
   "place": "CENTRAL TURKEY",
   "magnitude": 2.8
 },
 {
-  "lat": 38.46,
-  "log": 37.35,
+  "lat": -36.53,
+  "log": 177.61,
+  "place": "OFF E. COAST OF N. ISLAND, N.Z.",
+  "magnitude": 3.1
+},
+{
+  "lat": 37.89,
+  "log": 36.40,
+  "place": "CENTRAL TURKEY",
+  "magnitude": 2.7
+},
+{
+  "lat": 38.34,
+  "log": 27.20,
+  "place": "WESTERN TURKEY",
+  "magnitude": 2.8
+},
+{
+  "lat": 38.00,
+  "log": 36.37,
+  "place": "CENTRAL TURKEY",
+  "magnitude": 3.8
+},
+{
+  "lat": 37.86,
+  "log": 36.64,
+  "place": "CENTRAL TURKEY",
+  "magnitude": 2.6
+},
+{
+  "lat": 36.96,
+  "log": 40.67,
+  "place": "SYRIA",
+  "magnitude": 2.4
+},
+{
+  "lat": 38.06,
+  "log": 36.62,
   "place": "CENTRAL TURKEY",
   "magnitude": 2.1
 },
 {
-  "lat": 19.17,
-  "log": -155.49,
+  "lat": 38.12,
+  "log": 38.60,
+  "place": "EASTERN TURKEY",
+  "magnitude": 2.8
+},
+{
+  "lat": 12.73,
+  "log": -87.49,
+  "place": "NEAR COAST OF NICARAGUA",
+  "magnitude": 2.6
+},
+{
+  "lat": 63.86,
+  "log": -153.26,
+  "place": "CENTRAL ALASKA",
+  "magnitude": 2.6
+},
+{
+  "lat": 38.65,
+  "log": 40.52,
+  "place": "EASTERN TURKEY",
+  "magnitude": 2.2
+},
+{
+  "lat": 38.65,
+  "log": 39.67,
+  "place": "EASTERN TURKEY",
+  "magnitude": 2.2
+},
+{
+  "lat": 38.08,
+  "log": 38.39,
+  "place": "EASTERN TURKEY",
+  "magnitude": 2.4
+},
+{
+  "lat": 19.45,
+  "log": -155.24,
   "place": "ISLAND OF HAWAII, HAWAII",
+  "magnitude": 2.4
+},
+{
+  "lat": 36.36,
+  "log": 36.03,
+  "place": "TURKEY-SYRIA BORDER REGION",
+  "magnitude": 4.0
+},
+{
+  "lat": 18.02,
+  "log": -66.84,
+  "place": "PUERTO RICO",
+  "magnitude": 2.6
+},
+{
+  "lat": 38.33,
+  "log": 27.18,
+  "place": "WESTERN TURKEY",
+  "magnitude": 2.4
+},
+{
+  "lat": 38.41,
+  "log": 37.40,
+  "place": "CENTRAL TURKEY",
+  "magnitude": 2.0
+},
+{
+  "lat": 39.03,
+  "log": 27.84,
+  "place": "WESTERN TURKEY",
+  "magnitude": 2.8
+},
+{
+  "lat": 36.88,
+  "log": 36.29,
+  "place": "TURKEY-SYRIA BORDER REGION",
   "magnitude": 2.1
 },
 {
-  "lat": 17.17,
-  "log": -94.61,
+  "lat": -16.30,
+  "log": -73.60,
+  "place": "NEAR COAST OF SOUTHERN PERU",
+  "magnitude": 4.0
+},
+{
+  "lat": 45.44,
+  "log": 26.40,
+  "place": "ROMANIA",
+  "magnitude": 3.4
+},
+{
+  "lat": 37.73,
+  "log": 36.18,
+  "place": "CENTRAL TURKEY",
+  "magnitude": 2.0
+},
+{
+  "lat": 37.90,
+  "log": 36.36,
+  "place": "CENTRAL TURKEY",
+  "magnitude": 2.6
+},
+{
+  "lat": -8.58,
+  "log": 116.09,
+  "place": "LOMBOK REGION, INDONESIA",
+  "magnitude": 2.7
+},
+{
+  "lat": 16.60,
+  "log": -95.24,
   "place": "OAXACA, MEXICO",
   "magnitude": 4.1
 },
 {
-  "lat": 38.18,
-  "log": 38.62,
-  "place": "EASTERN TURKEY",
-  "magnitude": 2.4
+  "lat": 4.98,
+  "log": 96.49,
+  "place": "NORTHERN SUMATRA, INDONESIA",
+  "magnitude": 3.6
 },
 {
-  "lat": 38.73,
-  "log": 35.24,
+  "lat": 37.32,
+  "log": 36.85,
   "place": "CENTRAL TURKEY",
-  "magnitude": 3.3
+  "magnitude": 2.7
 },
 {
-  "lat": 36.09,
-  "log": 32.70,
+  "lat": 36.15,
+  "log": 35.91,
   "place": "CENTRAL TURKEY",
-  "magnitude": 2.3
+  "magnitude": 2.0
 },
 {
-  "lat": -55.74,
-  "log": 147.07,
-  "place": "WEST OF MACQUARIE ISLAND",
-  "magnitude": 5.8
+  "lat": 37.86,
+  "log": 37.84,
+  "place": "CENTRAL TURKEY",
+  "magnitude": 2.2
 },
 {
-  "lat": 37.88,
-  "log": 34.02,
+  "lat": 37.72,
+  "log": 36.08,
   "place": "CENTRAL TURKEY",
   "magnitude": 2.1
 },
 {
-  "lat": 7.47,
+  "lat": 38.06,
+  "log": 38.20,
+  "place": "EASTERN TURKEY",
+  "magnitude": 2.2
+},
+{
+  "lat": -15.02,
+  "log": -72.35,
+  "place": "SOUTHERN PERU",
+  "magnitude": 4.7
+},
+{
+  "lat": 38.26,
+  "log": 38.86,
+  "place": "EASTERN TURKEY",
+  "magnitude": 2.8
+},
+{
+  "lat": 37.81,
+  "log": 37.86,
+  "place": "CENTRAL TURKEY",
+  "magnitude": 2.7
+},
+{
+  "lat": 40.42,
+  "log": 25.94,
+  "place": "AEGEAN SEA",
+  "magnitude": 2.1
+},
+{
+  "lat": -60.93,
+  "log": -33.42,
+  "place": "SCOTIA SEA",
+  "magnitude": 5.0
+},
+{
+  "lat": 12.15,
+  "log": -87.88,
+  "place": "NEAR COAST OF NICARAGUA",
+  "magnitude": 4.9
+},
+{
+  "lat": 34.85,
+  "log": 13.84,
+  "place": "CENTRAL MEDITERRANEAN SEA",
+  "magnitude": 3.1
+},
+{
+  "lat": 36.50,
+  "log": 36.27,
+  "place": "TURKEY-SYRIA BORDER REGION",
+  "magnitude": 2.1
+},
+{
+  "lat": 38.11,
+  "log": 36.53,
+  "place": "CENTRAL TURKEY",
+  "magnitude": 2.6
+},
+{
+  "lat": 35.50,
+  "log": -3.59,
+  "place": "STRAIT OF GIBRALTAR",
+  "magnitude": 2.5
+},
+{
+  "lat": 37.98,
+  "log": 36.38,
+  "place": "CENTRAL TURKEY",
+  "magnitude": 2.5
+},
+{
+  "lat": 7.46,
   "log": 126.19,
   "place": "MINDANAO, PHILIPPINES",
-  "magnitude": 3.0
+  "magnitude": 3.4
+},
+{
+  "lat": -24.21,
+  "log": -67.83,
+  "place": "ANTOFAGASTA, CHILE",
+  "magnitude": 3.5
 }
 ]
 }
