@@ -1,4 +1,304 @@
 {
 "registers": [
+{
+  "lat": -9.73,
+  "log": 117.97,
+  "place": "SUMBAWA REGION, INDONESIA",
+  "magnitude": 3.3
+},
+{
+  "lat": -4.77,
+  "log": 121.99,
+  "place": "SULAWESI, INDONESIA",
+  "magnitude": 4.0
+},
+{
+  "lat": 46.05,
+  "log": 14.25,
+  "place": "SLOVENIA",
+  "magnitude": 1.0
+},
+{
+  "lat": -23.93,
+  "log": -67.56,
+  "place": "ANTOFAGASTA, CHILE",
+  "magnitude": 3.7
+},
+{
+  "lat": 34.86,
+  "log": 25.28,
+  "place": "CRETE, GREECE",
+  "magnitude": 3.1
+},
+{
+  "lat": 37.75,
+  "log": 27.21,
+  "place": "WESTERN TURKEY",
+  "magnitude": 2.6
+},
+{
+  "lat": 18.22,
+  "log": -67.18,
+  "place": "MONA PASSAGE, PUERTO RICO",
+  "magnitude": 2.4
+},
+{
+  "lat": 17.41,
+  "log": 121.39,
+  "place": "LUZON, PHILIPPINES",
+  "magnitude": 3.0
+},
+{
+  "lat": 37.88,
+  "log": 27.36,
+  "place": "WESTERN TURKEY",
+  "magnitude": 2.7
+},
+{
+  "lat": -35.68,
+  "log": -71.49,
+  "place": "MAULE, CHILE",
+  "magnitude": 3.2
+},
+{
+  "lat": -23.86,
+  "log": 179.99,
+  "place": "SOUTH OF FIJI ISLANDS",
+  "magnitude": 4.3
+},
+{
+  "lat": -3.08,
+  "log": 141.15,
+  "place": "NEW GUINEA, PAPUA NEW GUINEA",
+  "magnitude": 3.0
+},
+{
+  "lat": 12.38,
+  "log": -87.75,
+  "place": "NEAR COAST OF NICARAGUA",
+  "magnitude": 3.2
+},
+{
+  "lat": 39.37,
+  "log": 26.26,
+  "place": "NEAR THE COAST OF WESTERN TURKEY",
+  "magnitude": 2.3
+},
+{
+  "lat": 36.53,
+  "log": -7.79,
+  "place": "STRAIT OF GIBRALTAR",
+  "magnitude": 1.6
+},
+{
+  "lat": 8.96,
+  "log": 93.78,
+  "place": "NICOBAR ISLANDS, INDIA REGION",
+  "magnitude": 4.5
+},
+{
+  "lat": 40.50,
+  "log": 20.49,
+  "place": "ALBANIA",
+  "magnitude": 2.8
+},
+{
+  "lat": 38.51,
+  "log": 38.02,
+  "place": "EASTERN TURKEY",
+  "magnitude": 2.2
+},
+{
+  "lat": 40.51,
+  "log": 20.49,
+  "place": "ALBANIA",
+  "magnitude": 2.8
+},
+{
+  "lat": 34.92,
+  "log": 25.24,
+  "place": "CRETE, GREECE",
+  "magnitude": 2.5
+},
+{
+  "lat": 38.16,
+  "log": 38.71,
+  "place": "EASTERN TURKEY",
+  "magnitude": 2.1
+},
+{
+  "lat": -40.10,
+  "log": 174.98,
+  "place": "COOK STRAIT, NEW ZEALAND",
+  "magnitude": 3.0
+},
+{
+  "lat": -31.96,
+  "log": -68.58,
+  "place": "SAN JUAN, ARGENTINA",
+  "magnitude": 3.0
+},
+{
+  "lat": 37.94,
+  "log": 36.11,
+  "place": "CENTRAL TURKEY",
+  "magnitude": 2.1
+},
+{
+  "lat": -20.32,
+  "log": -69.38,
+  "place": "TARAPACA, CHILE",
+  "magnitude": 2.7
+},
+{
+  "lat": -32.62,
+  "log": -70.89,
+  "place": "VALPARAISO, CHILE",
+  "magnitude": 4.7
+},
+{
+  "lat": -15.88,
+  "log": -173.79,
+  "place": "TONGA",
+  "magnitude": 4.5
+},
+{
+  "lat": 38.15,
+  "log": 38.51,
+  "place": "EASTERN TURKEY",
+  "magnitude": 2.7
+},
+{
+  "lat": 35.54,
+  "log": -3.57,
+  "place": "STRAIT OF GIBRALTAR",
+  "magnitude": 2.1
+},
+{
+  "lat": -3.97,
+  "log": 138.85,
+  "place": "PAPUA, INDONESIA",
+  "magnitude": 3.3
+},
+{
+  "lat": 36.26,
+  "log": 36.29,
+  "place": "TURKEY-SYRIA BORDER REGION",
+  "magnitude": 2.5
+},
+{
+  "lat": -2.99,
+  "log": 141.65,
+  "place": "NEAR N COAST OF NEW GUINEA, PNG.",
+  "magnitude": 3.4
+},
+{
+  "lat": 39.12,
+  "log": 40.28,
+  "place": "EASTERN TURKEY",
+  "magnitude": 2.2
+},
+{
+  "lat": -3.07,
+  "log": 141.52,
+  "place": "NEW GUINEA, PAPUA NEW GUINEA",
+  "magnitude": 3.4
+},
+{
+  "lat": 38.16,
+  "log": 36.91,
+  "place": "CENTRAL TURKEY",
+  "magnitude": 2.3
+},
+{
+  "lat": 17.43,
+  "log": 121.45,
+  "place": "LUZON, PHILIPPINES",
+  "magnitude": 3.7
+},
+{
+  "lat": 38.35,
+  "log": 38.67,
+  "place": "EASTERN TURKEY",
+  "magnitude": 2.2
+},
+{
+  "lat": 37.83,
+  "log": 36.63,
+  "place": "CENTRAL TURKEY",
+  "magnitude": 2.0
+},
+{
+  "lat": 35.02,
+  "log": 23.90,
+  "place": "CRETE, GREECE",
+  "magnitude": 2.9
+},
+{
+  "lat": 37.65,
+  "log": 36.02,
+  "place": "CENTRAL TURKEY",
+  "magnitude": 2.1
+},
+{
+  "lat": 38.03,
+  "log": 36.59,
+  "place": "CENTRAL TURKEY",
+  "magnitude": 2.2
+},
+{
+  "lat": 37.09,
+  "log": 36.94,
+  "place": "CENTRAL TURKEY",
+  "magnitude": 2.5
+},
+{
+  "lat": -10.14,
+  "log": -78.79,
+  "place": "NEAR COAST OF CENTRAL PERU",
+  "magnitude": 4.2
+},
+{
+  "lat": 37.89,
+  "log": 36.22,
+  "place": "CENTRAL TURKEY",
+  "magnitude": 2.8
+},
+{
+  "lat": 18.11,
+  "log": -66.99,
+  "place": "PUERTO RICO",
+  "magnitude": 2.6
+},
+{
+  "lat": 42.67,
+  "log": 13.32,
+  "place": "CENTRAL ITALY",
+  "magnitude": 2.1
+},
+{
+  "lat": 32.22,
+  "log": -101.91,
+  "place": "WESTERN TEXAS",
+  "magnitude": 2.7
+},
+{
+  "lat": 36.13,
+  "log": 35.90,
+  "place": "CENTRAL TURKEY",
+  "magnitude": 3.1
+},
+{
+  "lat": 38.07,
+  "log": 37.62,
+  "place": "CENTRAL TURKEY",
+  "magnitude": 2.1
+},
+{
+  "lat": 36.47,
+  "log": -7.69,
+  "place": "STRAIT OF GIBRALTAR",
+  "magnitude": 1.7
+}
 ]
 }
