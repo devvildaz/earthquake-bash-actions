@@ -1,303 +1,303 @@
 {
 "registers": [
 {
-  "lat": 37.01,
-  "log": 36.42,
-  "place": "CENTRAL TURKEY",
-  "magnitude": 3.4
-},
-{
-  "lat": 2.48,
-  "log": 127.15,
-  "place": "MOLUCCA SEA",
-  "magnitude": 3.6
-},
-{
-  "lat": 38.23,
-  "log": -0.84,
-  "place": "SPAIN",
-  "magnitude": 1.6
-},
-{
-  "lat": 9.36,
-  "log": -84.68,
-  "place": "COSTA RICA",
-  "magnitude": 3.7
-},
-{
-  "lat": 47.63,
-  "log": -3.33,
-  "place": "FRANCE",
-  "magnitude": 2.7
-},
-{
-  "lat": 35.33,
-  "log": -3.65,
-  "place": "STRAIT OF GIBRALTAR",
-  "magnitude": 2.1
-},
-{
-  "lat": 40.12,
-  "log": -0.01,
-  "place": "SPAIN",
-  "magnitude": 1.7
-},
-{
-  "lat": 38.07,
-  "log": 37.16,
-  "place": "CENTRAL TURKEY",
-  "magnitude": 3.3
-},
-{
-  "lat": -9.17,
-  "log": 118.09,
-  "place": "SUMBAWA REGION, INDONESIA",
-  "magnitude": 2.7
-},
-{
-  "lat": 39.15,
-  "log": 33.02,
-  "place": "CENTRAL TURKEY",
-  "magnitude": 2.6
-},
-{
-  "lat": 35.74,
-  "log": -4.72,
-  "place": "STRAIT OF GIBRALTAR",
-  "magnitude": 2.2
-},
-{
   "lat": 36.04,
-  "log": 36.05,
+  "log": 36.07,
   "place": "TURKEY-SYRIA BORDER REGION",
-  "magnitude": 2.8
-},
-{
-  "lat": -4.87,
-  "log": 102.06,
-  "place": "SOUTHERN SUMATRA, INDONESIA",
-  "magnitude": 4.0
-},
-{
-  "lat": 34.54,
-  "log": -97.69,
-  "place": "OKLAHOMA",
-  "magnitude": 2.1
-},
-{
-  "lat": 39.87,
-  "log": 140.53,
-  "place": "EASTERN HONSHU, JAPAN",
-  "magnitude": 4.0
-},
-{
-  "lat": 38.28,
-  "log": 38.14,
-  "place": "EASTERN TURKEY",
-  "magnitude": 2.3
-},
-{
-  "lat": -26.15,
-  "log": -70.56,
-  "place": "ATACAMA, CHILE",
-  "magnitude": 3.8
-},
-{
-  "lat": -3.54,
-  "log": 119.14,
-  "place": "SULAWESI, INDONESIA",
-  "magnitude": 2.6
-},
-{
-  "lat": -3.89,
-  "log": 135.11,
-  "place": "PAPUA, INDONESIA",
-  "magnitude": 3.7
-},
-{
-  "lat": 17.83,
-  "log": -66.95,
-  "place": "PUERTO RICO REGION",
-  "magnitude": 3.3
-},
-{
-  "lat": 35.56,
-  "log": -3.71,
-  "place": "STRAIT OF GIBRALTAR",
-  "magnitude": 2.4
-},
-{
-  "lat": 39.11,
-  "log": 33.07,
-  "place": "CENTRAL TURKEY",
-  "magnitude": 4.1
-},
-{
-  "lat": 34.88,
-  "log": 23.26,
-  "place": "CRETE, GREECE",
-  "magnitude": 2.9
-},
-{
-  "lat": 24.68,
-  "log": 94.20,
-  "place": "MYANMAR-INDIA BORDER REGION",
-  "magnitude": 2.8
-},
-{
-  "lat": -21.19,
-  "log": -68.65,
-  "place": "ANTOFAGASTA, CHILE",
-  "magnitude": 2.7
-},
-{
-  "lat": 38.11,
-  "log": 73.03,
-  "place": "TAJIKISTAN",
-  "magnitude": 4.2
-},
-{
-  "lat": -0.35,
-  "log": 124.93,
-  "place": "MOLUCCA SEA",
-  "magnitude": 3.6
-},
-{
-  "lat": 18.09,
-  "log": -67.09,
-  "place": "PUERTO RICO",
-  "magnitude": 2.2
-},
-{
-  "lat": 12.22,
-  "log": 143.87,
-  "place": "GUAM REGION",
-  "magnitude": 5.0
-},
-{
-  "lat": -7.74,
-  "log": 118.52,
-  "place": "FLORES SEA",
-  "magnitude": 2.9
-},
-{
-  "lat": 38.42,
-  "log": 37.65,
-  "place": "CENTRAL TURKEY",
-  "magnitude": 2.7
-},
-{
-  "lat": -3.76,
-  "log": 135.10,
-  "place": "PAPUA, INDONESIA",
-  "magnitude": 4.8
-},
-{
-  "lat": -24.83,
-  "log": -70.22,
-  "place": "ANTOFAGASTA, CHILE",
-  "magnitude": 3.3
-},
-{
-  "lat": 37.51,
-  "log": 137.26,
-  "place": "NEAR WEST COAST OF HONSHU, JAPAN",
-  "magnitude": 5.3
-},
-{
-  "lat": 52.93,
-  "log": 158.75,
-  "place": "NEAR EAST COAST OF KAMCHATKA",
-  "magnitude": 4.2
-},
-{
-  "lat": 18.00,
-  "log": -66.82,
-  "place": "PUERTO RICO",
   "magnitude": 2.5
 },
 {
-  "lat": 37.87,
-  "log": 36.63,
+  "lat": -5.37,
+  "log": 106.05,
+  "place": "JAVA, INDONESIA",
+  "magnitude": 4.8
+},
+{
+  "lat": -6.47,
+  "log": 104.87,
+  "place": "SUNDA STRAIT, INDONESIA",
+  "magnitude": 3.9
+},
+{
+  "lat": 36.92,
+  "log": 36.48,
+  "place": "TURKEY-SYRIA BORDER REGION",
+  "magnitude": 2.0
+},
+{
+  "lat": 17.71,
+  "log": -95.18,
+  "place": "VERACRUZ, MEXICO",
+  "magnitude": 4.1
+},
+{
+  "lat": -6.42,
+  "log": 104.92,
+  "place": "SUNDA STRAIT, INDONESIA",
+  "magnitude": 3.4
+},
+{
+  "lat": -6.43,
+  "log": 104.96,
+  "place": "SUNDA STRAIT, INDONESIA",
+  "magnitude": 3.4
+},
+{
+  "lat": -6.43,
+  "log": 104.93,
+  "place": "SUNDA STRAIT, INDONESIA",
+  "magnitude": 3.5
+},
+{
+  "lat": -6.47,
+  "log": 104.89,
+  "place": "SUNDA STRAIT, INDONESIA",
+  "magnitude": 3.5
+},
+{
+  "lat": 38.19,
+  "log": 36.66,
   "place": "CENTRAL TURKEY",
   "magnitude": 2.0
 },
 {
-  "lat": -29.62,
-  "log": -69.24,
-  "place": "SAN JUAN, ARGENTINA",
-  "magnitude": 3.0
+  "lat": -6.66,
+  "log": 104.72,
+  "place": "SUNDA STRAIT, INDONESIA",
+  "magnitude": 4.9
 },
 {
-  "lat": 19.41,
-  "log": -155.26,
-  "place": "ISLAND OF HAWAII, HAWAII",
-  "magnitude": 2.4
-},
-{
-  "lat": 36.18,
-  "log": 36.02,
-  "place": "TURKEY-SYRIA BORDER REGION",
-  "magnitude": 2.5
-},
-{
-  "lat": 37.77,
-  "log": -1.47,
-  "place": "SPAIN",
-  "magnitude": 1.6
-},
-{
-  "lat": 34.54,
-  "log": -97.70,
+  "lat": 35.23,
+  "log": -98.05,
   "place": "OKLAHOMA",
-  "magnitude": 2.2
-},
-{
-  "lat": 38.67,
-  "log": 14.15,
-  "place": "SICILY, ITALY",
-  "magnitude": 3.3
-},
-{
-  "lat": 63.00,
-  "log": -149.73,
-  "place": "CENTRAL ALASKA",
-  "magnitude": 2.5
-},
-{
-  "lat": 37.53,
-  "log": 37.84,
-  "place": "CENTRAL TURKEY",
-  "magnitude": 2.3
-},
-{
-  "lat": 45.53,
-  "log": 26.40,
-  "place": "ROMANIA",
   "magnitude": 2.6
 },
 {
-  "lat": 9.40,
-  "log": 125.48,
-  "place": "MINDANAO, PHILIPPINES",
-  "magnitude": 3.3
+  "lat": -6.42,
+  "log": 104.88,
+  "place": "SUNDA STRAIT, INDONESIA",
+  "magnitude": 4.5
 },
 {
-  "lat": -19.90,
-  "log": -69.20,
-  "place": "TARAPACA, CHILE",
-  "magnitude": 3.0
+  "lat": -6.45,
+  "log": 104.90,
+  "place": "SUNDA STRAIT, INDONESIA",
+  "magnitude": 3.6
 },
 {
-  "lat": -2.55,
-  "log": 121.75,
-  "place": "SULAWESI, INDONESIA",
+  "lat": 38.34,
+  "log": 37.65,
+  "place": "CENTRAL TURKEY",
+  "magnitude": 2.1
+},
+{
+  "lat": -6.44,
+  "log": 104.95,
+  "place": "SUNDA STRAIT, INDONESIA",
+  "magnitude": 3.1
+},
+{
+  "lat": -4.88,
+  "log": 102.99,
+  "place": "SOUTHERN SUMATRA, INDONESIA",
+  "magnitude": 3.7
+},
+{
+  "lat": -6.50,
+  "log": 104.88,
+  "place": "SUNDA STRAIT, INDONESIA",
+  "magnitude": 3.9
+},
+{
+  "lat": -6.45,
+  "log": 104.91,
+  "place": "SUNDA STRAIT, INDONESIA",
+  "magnitude": 3.5
+},
+{
+  "lat": -6.44,
+  "log": 104.93,
+  "place": "SUNDA STRAIT, INDONESIA",
+  "magnitude": 3.8
+},
+{
+  "lat": 30.76,
+  "log": -116.34,
+  "place": "OFFSHORE BAJA CALIFORNIA, MEXICO",
   "magnitude": 4.0
 },
 {
-  "lat": 10.07,
-  "log": 126.08,
-  "place": "PHILIPPINE ISLANDS REGION",
+  "lat": -6.48,
+  "log": 104.87,
+  "place": "SUNDA STRAIT, INDONESIA",
+  "magnitude": 4.0
+},
+{
+  "lat": -6.45,
+  "log": 104.93,
+  "place": "SUNDA STRAIT, INDONESIA",
+  "magnitude": 4.2
+},
+{
+  "lat": -6.43,
+  "log": 104.93,
+  "place": "SUNDA STRAIT, INDONESIA",
+  "magnitude": 4.6
+},
+{
+  "lat": 37.07,
+  "log": 39.17,
+  "place": "EASTERN TURKEY",
+  "magnitude": 2.0
+},
+{
+  "lat": 41.91,
+  "log": 36.83,
+  "place": "CENTRAL TURKEY",
+  "magnitude": 3.1
+},
+{
+  "lat": -6.47,
+  "log": 104.89,
+  "place": "SUNDA STRAIT, INDONESIA",
+  "magnitude": 3.8
+},
+{
+  "lat": 25.49,
+  "log": -109.68,
+  "place": "GULF OF CALIFORNIA",
+  "magnitude": 4.7
+},
+{
+  "lat": 38.11,
+  "log": 37.01,
+  "place": "CENTRAL TURKEY",
+  "magnitude": 2.1
+},
+{
+  "lat": 37.36,
+  "log": 37.12,
+  "place": "CENTRAL TURKEY",
+  "magnitude": 2.2
+},
+{
+  "lat": -0.90,
+  "log": 122.02,
+  "place": "SULAWESI, INDONESIA",
+  "magnitude": 3.1
+},
+{
+  "lat": 38.10,
+  "log": 14.77,
+  "place": "SICILY, ITALY",
+  "magnitude": 2.2
+},
+{
+  "lat": 25.50,
+  "log": -109.42,
+  "place": "GULF OF CALIFORNIA",
+  "magnitude": 4.6
+},
+{
+  "lat": 11.42,
+  "log": -86.88,
+  "place": "NEAR COAST OF NICARAGUA",
+  "magnitude": 3.5
+},
+{
+  "lat": 42.54,
+  "log": 16.26,
+  "place": "ADRIATIC SEA",
+  "magnitude": 2.8
+},
+{
+  "lat": 25.58,
+  "log": -109.68,
+  "place": "GULF OF CALIFORNIA",
+  "magnitude": 4.9
+},
+{
+  "lat": 36.10,
+  "log": 35.93,
+  "place": "CENTRAL TURKEY",
+  "magnitude": 2.0
+},
+{
+  "lat": 38.09,
+  "log": 37.08,
+  "place": "CENTRAL TURKEY",
+  "magnitude": 2.9
+},
+{
+  "lat": 34.03,
+  "log": -117.50,
+  "place": "GREATER LOS ANGELES AREA, CALIF.",
+  "magnitude": 2.9
+},
+{
+  "lat": 45.58,
+  "log": 3.21,
+  "place": "FRANCE",
+  "magnitude": 2.4
+},
+{
+  "lat": 37.20,
+  "log": -104.76,
+  "place": "COLORADO",
+  "magnitude": 2.3
+},
+{
+  "lat": 47.14,
+  "log": 4.90,
+  "place": "FRANCE",
+  "magnitude": 2.0
+},
+{
+  "lat": 37.83,
+  "log": 36.18,
+  "place": "CENTRAL TURKEY",
+  "magnitude": 2.1
+},
+{
+  "lat": 37.99,
+  "log": 0.63,
+  "place": "WESTERN MEDITERRANEAN SEA",
+  "magnitude": 2.6
+},
+{
+  "lat": 34.80,
+  "log": 24.95,
+  "place": "CRETE, GREECE",
+  "magnitude": 2.7
+},
+{
+  "lat": 25.56,
+  "log": -109.81,
+  "place": "GULF OF CALIFORNIA",
+  "magnitude": 4.4
+},
+{
+  "lat": 36.78,
+  "log": 36.49,
+  "place": "TURKEY-SYRIA BORDER REGION",
+  "magnitude": 2.4
+},
+{
+  "lat": 25.58,
+  "log": -109.74,
+  "place": "GULF OF CALIFORNIA",
+  "magnitude": 4.9
+},
+{
+  "lat": 55.54,
+  "log": 162.67,
+  "place": "NEAR EAST COAST OF KAMCHATKA",
+  "magnitude": 3.9
+},
+{
+  "lat": -0.29,
+  "log": 98.86,
+  "place": "KEPULAUAN BATU, INDONESIA",
   "magnitude": 3.5
 }
 ]
